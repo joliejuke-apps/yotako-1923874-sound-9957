@@ -1,0 +1,94 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #f9f9f9
+}
+.style1,
+.style9 {
+  height: 35.13909224011713vw
+}
+.style1 {
+  background-image: url(https://designresources.assets.yotako.io/80syc562wkbayycll.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  object-fit: cover;
+  box-shadow: 0 3px 6px 0 rgba(0,0,0,.1607843137254902);
+  display: flex;
+  margin-left: 0;
+  margin-top: 33.82352941176471vh;
+  width: 100vw
+}
+.style9 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #707070;
+  border-right: .07320644216691069vw solid #707070;
+  border-top: .07320644216691069vw solid #707070;
+  border-bottom: .07320644216691069vw solid #707070;
+  margin-left: 7.174231332357247vw;
+  margin-top: 0;
+  width: 19.765739385065885vw
+}
+.style6,
+.style7 {
+  display: flex;
+  width: 2.342606149341142vw;
+  height: 3.6603221083455346vw
+}
+.style6 {
+  margin-left: 2.1961932650073206vw;
+  margin-top: 15.739385065885799vw;
+  flex-direction: column
+}
+.style7 {
+  background-color: #e1e1e1;
+  align-items: center;
+  justify-content: center
+}
+.style8 {
+  width: .5183955760860862vw;
+  height: 1.0248901903367496vw
+}
+.style2 {
+  background-image: url(https://designresources.assets.yotako.io/80syc562wkbayz4ag.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 41.434846266471446vw;
+  margin-top: 30.60029282576867vw;
+  width: 2.342606149341142vw;
+  height: 2.342606149341142vw;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style3 {
+  color: #303030;
+  text-align: center;
+  font-family: Roboto,serif;
+  font-size: .8784773060029283vw
+}
+.style4 {
+  background-color: #e1e1e1;
+  display: flex;
+  margin-left: .5856515373352855vw;
+  margin-top: 30.60029282576867vw;
+  width: 2.342606149341142vw;
+  height: 2.342606149341142vw;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style5 {
+  color: #303030;
+  text-align: center;
+  font-family: Roboto,serif;
+  font-size: .8784773060029283vw
+}
+.breakpoint-0 {
+  display: block
+}
